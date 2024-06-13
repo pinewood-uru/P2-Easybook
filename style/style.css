@@ -76,5 +76,9 @@ form input, form button{
 
 }
 
+form div>input{
+    align-items: start;
+}
+
 
 
